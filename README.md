@@ -1,1 +1,0 @@
-# GymPoint-Web
